@@ -1,0 +1,30 @@
+body{
+	background:linear-gradient(120deg,#f403d1,gold,#f403d1);
+	
+
+}
+.highlight{
+	font-size:23;
+	background-color:yellow;
+	height:50px;
+	width:1300px;
+	padding:20px;
+	border-radius:20px;
+	box-shadow:10px 10px 20px 2px RED ;
+	
+	
+}
+.highlights{
+	font-size:18;
+	background-color:red;
+	height:40px;
+	width:300px;
+	padding:20px;
+	border-radius:20px;
+	box-shadow:10px 10px 5px 3px  black;
+
+	
+	
+h2{
+	text-shadow:10px 10px green;
+}
